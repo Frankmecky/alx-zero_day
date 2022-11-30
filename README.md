@@ -1,2 +1,1 @@
-1.My first readme
-2.programming is good
+My first readme programming is good
